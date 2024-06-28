@@ -32,7 +32,7 @@ public class HumanCtrl_base : MonoBehaviour{
     }
     void Update()
     {
-        Debug.Log("test");
+        Debug.Log("test1");
         Move_Ctrl();
     }
     void Move_Ctrl()
